@@ -1,2 +1,2 @@
 # HolaMundo
-Programacion 4
+Laboratorio 4
